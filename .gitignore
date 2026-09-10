@@ -1,0 +1,9 @@
+
+phishing_env/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+research_random_rf.pkl
+research_unseen_domain_rf.pkl

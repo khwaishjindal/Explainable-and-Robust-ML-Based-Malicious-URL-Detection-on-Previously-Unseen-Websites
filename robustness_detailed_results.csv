@@ -1,0 +1,7 @@
+Perturbation,Samples,Safe_to_Phishing,Phishing_to_Safe,Total_Flips,Flip_Rate,Stability
+add_query,1000,107,199,306,0.306,0.694
+add_path,1000,117,68,185,0.185,0.815
+add_digit,1000,220,67,287,0.287,0.7130000000000001
+add_hyphen,1000,85,86,171,0.171,0.829
+uppercase,1000,0,0,0,0.0,1.0
+add_www,1000,0,0,0,0.0,1.0

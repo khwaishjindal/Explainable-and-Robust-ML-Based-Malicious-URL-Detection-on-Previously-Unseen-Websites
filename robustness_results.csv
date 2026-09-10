@@ -1,0 +1,7 @@
+Perturbation,Samples,Prediction_Flips,Flip_Rate,Prediction_Stability
+add_query,1000,306,0.306,0.694
+add_path,1000,185,0.185,0.815
+add_digit,1000,287,0.287,0.7130000000000001
+add_hyphen,1000,171,0.171,0.829
+uppercase,1000,0,0.0,1.0
+add_www,1000,0,0.0,1.0
